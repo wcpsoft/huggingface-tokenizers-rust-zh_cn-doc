@@ -1,0 +1,2 @@
+# huggingface-tokenizers-rust-zh_cn-doc
+这是一份关于huggingface的tokenizers库在rust库的使用手册
